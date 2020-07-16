@@ -1,0 +1,17 @@
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.csprojAssemblyReference.cache
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.csproj.CoreCompileInputs.cache
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.AssemblyInfoInputs.cache
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.AssemblyInfo.cs
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.Tests.deps.json
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.Tests.runtimeconfig.json
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.Tests.runtimeconfig.dev.json
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.Tests.dll
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.Tests.pdb
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.dll
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.pdb
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.csproj.CopyComplete
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.dll
+/Users/iangregg/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.pdb
