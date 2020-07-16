@@ -21,13 +21,16 @@ namespace ScrabbleScore.Tests
     {
       Words newWord = new Words("test");
       char[] Letters = newWord.ArraySplit();
-      char[] Answer = { 't', 'e', 's', 't' };
+      char[] Answer = { 'T', 'E', 'S', 'T' };
       Assert.AreEqual(Answer[0], Letters[0]);
     }
     // [TestMethod]
-    // public void RefrenceScore_RefrenceTheScoreForLetters_True()
+    // public void WordScore_CalcuateWordScoreBasedOnLetterPointValues_int()
     // {
-      
+    //   Words newWord = new Words("test");
+    //   char[] Letters = newWord.ArraySplit();
+    //   int PlayerScore = newWord.WordScore();
+    //   Assert.AreEqual(4, PlayerScore);
     // }
   }
 }
