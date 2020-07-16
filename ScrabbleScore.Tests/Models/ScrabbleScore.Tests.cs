@@ -16,21 +16,20 @@ namespace ScrabbleScore.Tests
       Words newWord = new Words("test");
       Assert.AreEqual(typeof(Words), newWord.GetType());
     }
-    [TestMethod]
-    public void ArraySplit_SplitTheWordIntoAnArrayOfLetters_string()
-    {
-      Words newWord = new Words("test");
-      char[] Letters = newWord.ArraySplit();
-      char[] Answer = { 'T', 'E', 'S', 'T' };
-      Assert.AreEqual(Answer[0], Letters[0]);
-    }
     // [TestMethod]
-    // public void WordScore_CalcuateWordScoreBasedOnLetterPointValues_int()
+    // public void ArraySplit_SplitTheWordIntoAnArrayOfLetters_string()
     // {
     //   Words newWord = new Words("test");
     //   char[] Letters = newWord.ArraySplit();
-    //   int PlayerScore = newWord.WordScore();
-    //   Assert.AreEqual(4, PlayerScore);
+    //   char[] Answer = { 'T', 'E', 'S', 'T' };
+    //   Assert.AreEqual(Answer[0], Letters[0]);
     // }
+    [TestMethod]
+    public void ArraySplit_CalcuateWordScoreBasedOnLetterPointValues_int()
+    {
+      Words newWord = new Words("test");
+      int PlayerScore = newWord.ArraySplit();
+      Assert.AreEqual(4, PlayerScore);
+    }
   }
 }
