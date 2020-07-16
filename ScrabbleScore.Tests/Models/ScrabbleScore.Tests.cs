@@ -12,15 +12,16 @@ namespace ScrabbleScore.Tests
       ScrabbleScore.ClearAll();
     }
     [TestMethod]
-    public void ScrabbleScoreConstructor_CreatesAnInstanceOfTheScrabble_Item()
+    public void WordConstructor_WillCreateAnInstanceOfWordObject_Word()
     {
+      //Arrange
       Words newWord = new Words("test");
-      Assert.AreEqual(typeof(Item), newItem.GetType());
+      Assert.AreEqual(typeof(Item), newWord.GetType());
     }
     [TestMethod]
     public void RefrenceScore_RefrenceTheScoreForLetters_True()
     {
-
+      
     }
   }
 }
