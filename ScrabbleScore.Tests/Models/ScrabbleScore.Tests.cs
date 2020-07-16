@@ -16,14 +16,6 @@ namespace ScrabbleScore.Tests
       Words newWord = new Words("test");
       Assert.AreEqual(typeof(Words), newWord.GetType());
     }
-    // [TestMethod]
-    // public void ArraySplit_SplitTheWordIntoAnArrayOfLetters_string()
-    // {
-    //   Words newWord = new Words("test");
-    //   char[] Letters = newWord.ArraySplit();
-    //   char[] Answer = { 'T', 'E', 'S', 'T' };
-    //   Assert.AreEqual(Answer[0], Letters[0]);
-    // }
     [TestMethod]
     public void ArraySplit_CalcuateWordScoreBasedOnLetterPointValues_int()
     {

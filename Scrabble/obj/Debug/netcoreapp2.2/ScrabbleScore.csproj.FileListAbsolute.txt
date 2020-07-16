@@ -1,0 +1,9 @@
+/Users/iangregg/Desktop/ScrabbleScore.Solution/Scrabble/obj/Debug/netcoreapp2.2/ScrabbleScore.csprojAssemblyReference.cache
+/Users/iangregg/Desktop/ScrabbleScore.Solution/Scrabble/obj/Debug/netcoreapp2.2/ScrabbleScore.csproj.CoreCompileInputs.cache
+/Users/iangregg/Desktop/ScrabbleScore.Solution/Scrabble/obj/Debug/netcoreapp2.2/ScrabbleScore.AssemblyInfoInputs.cache
+/Users/iangregg/Desktop/ScrabbleScore.Solution/Scrabble/obj/Debug/netcoreapp2.2/ScrabbleScore.AssemblyInfo.cs
+/Users/iangregg/Desktop/ScrabbleScore.Solution/Scrabble/bin/Debug/netcoreapp2.2/ScrabbleScore.deps.json
+/Users/iangregg/Desktop/ScrabbleScore.Solution/Scrabble/bin/Debug/netcoreapp2.2/ScrabbleScore.dll
+/Users/iangregg/Desktop/ScrabbleScore.Solution/Scrabble/bin/Debug/netcoreapp2.2/ScrabbleScore.pdb
+/Users/iangregg/Desktop/ScrabbleScore.Solution/Scrabble/obj/Debug/netcoreapp2.2/ScrabbleScore.dll
+/Users/iangregg/Desktop/ScrabbleScore.Solution/Scrabble/obj/Debug/netcoreapp2.2/ScrabbleScore.pdb

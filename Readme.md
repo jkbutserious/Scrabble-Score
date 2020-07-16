@@ -26,9 +26,9 @@ __
 
 | Behavior    | Input | Output |
 | :---------- | ----- | -----: |
-| behavior 1 |  |  |
-| behavior 2 |  |  |
-| behavior 3 |  |  |
+| Will create an instance of a word | "word" | "word" |
+| Will split word into each letter | "word" | { "w", "o", "r", "d" } |
+| Will calculate a score based on each letter used | "word" | 8 |
 | behavior 4 |  |  |
 
 

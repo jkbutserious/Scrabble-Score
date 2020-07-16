@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/iangregg/Desktop/ScrabbleScore.Solution/ProjectName/ProjectName.csproj",
-      "projectName": "ProjectName",
-      "projectPath": "/Users/iangregg/Desktop/ScrabbleScore.Solution/ProjectName/ProjectName.csproj",
+      "projectUniqueName": "/Users/iangregg/Desktop/ScrabbleScore.Solution/Scrabble/ScrabbleScore.csproj",
+      "projectName": "ScrabbleScore",
+      "projectPath": "/Users/iangregg/Desktop/ScrabbleScore.Solution/Scrabble/ScrabbleScore.csproj",
       "packagesPath": "/Users/iangregg/.nuget/packages/",
-      "outputPath": "/Users/iangregg/Desktop/ScrabbleScore.Solution/ProjectName/obj/",
+      "outputPath": "/Users/iangregg/Desktop/ScrabbleScore.Solution/Scrabble/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
