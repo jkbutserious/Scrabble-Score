@@ -17,9 +17,17 @@ namespace ScrabbleScore.Tests
       Assert.AreEqual(typeof(Words), newWord.GetType());
     }
     [TestMethod]
-    public void RefrenceScore_RefrenceTheScoreForLetters_True()
+    public void ArraySplit_SplitTheWordIntoAnArrayOfLetters_Array()
     {
-      
+      Words newWord = new Words("test");
+      string[] Letters = newWord.ArraySplit();
+      string[] Answer = { "w", "o", "r", "d" };
+      Assert.AreEqual(Answer, Letters);
     }
+    // [TestMethod]
+    // public void RefrenceScore_RefrenceTheScoreForLetters_True()
+    // {
+      
+    // }
   }
 }
