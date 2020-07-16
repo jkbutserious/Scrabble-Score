@@ -16,7 +16,7 @@ using System.Collections.Generic;
 
       public int ArraySplit()
       {
-        char[] NewArray = (InputWord.ToUpper()).ToCharArray();
+        char[] NewArray = (InputWord.ToUpper()).ToCharArray(); //Kyle
         for (int i = 0; i < NewArray.Length; i++)
         {
           Score += LetterScores[NewArray[i]];
