@@ -1,8 +1,8 @@
-# _new template_
+# _Scrabble Score_
 
 #### _{Brief description of application}, 2020 ver 1.0_
 
-#### By _Ian Gregg & (Co author)_
+#### By _Ian Gregg, Jeff Kim, & Kyle Hubbard_
 [new-template-for-code-C]()
 
 ## Description
